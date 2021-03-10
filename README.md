@@ -18,3 +18,19 @@ Stack Overflow is an open community for anyone that codes. They help you get ans
 
 Their mission is to help developers write the script of the future. This means helping you find and hire skilled developers for your business and providing them the tools they need to share knowledge and work effectively.
 
+### Problem Defination 🤔
+
+Given a `Title` and the `Body` of a question, we have to predict the relevant tags such that the question gets recommended to the `right domain expert` so that the expert can `answer the question correctly`.
+
+### Business Constraints ✔️
+
+* To predict as many tags as possible with very high `precision` and `recall`.
+* `Incorrect tags` could impact the `customer experience` on Stack Overflow.
+* No strict latency constraints. The model should be able to generate the relevant tags in a `reasonable` amount of `time`.
+
+### Data 🗄️
+
+* `train.csv` = 48 MB
+* `test.csv` = 16 MB
+
+The data consists of 6 columns.
