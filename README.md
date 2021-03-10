@@ -72,4 +72,4 @@ The key take away from the above plot is that a tag is appearing 5 time in max.
   <img src="https://github.com/Ankit152/StackOverflow-Tag-Prediction/blob/main/img/wordcloud.jpg">
 </p>
 
-The more frequent tags are appears to be bigger in the wordcloud and vice versa.
+The more frequent tags appears to be bigger in the wordcloud and vice versa.
