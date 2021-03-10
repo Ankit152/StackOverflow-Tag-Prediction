@@ -62,3 +62,8 @@ The key take away from the above plot is that most of the question has `2` or `3
 <p align="center">
   <img src="https://github.com/Ankit152/StackOverflow-Tag-Prediction/blob/main/img/tagDistribution.jpg" height=612>
 </p>
+
+The key take away from the above plot is that a tag is appearing 5 time in max.
+
+### WordCloud ☁️
+
