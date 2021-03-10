@@ -34,3 +34,12 @@ Given a `Title` and the `Body` of a question, we have to predict the relevant ta
 * `test.csv` = 16 MB
 
 The data consists of 6 columns.
+
+1. Id: Represents the ID of the question
+2. Title: Represents the title of the question
+3. Body: Represents the body of the question where the question is explained properly
+4. Tags: The tags relevant for the question asked
+5. CreationDate: The date at which the question was asked
+6. Type: Deals with the quality of the question
+
+Our main important features in the dataset are `Title`,`Body` and `Tags`.
