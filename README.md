@@ -43,3 +43,9 @@ The data consists of 6 columns.
 6. Type: Deals with the quality of the question
 
 Our main important features in the dataset are `Title`,`Body` and `Tags`.
+
+*`This is the countplot of number of tags per question.`*
+
+<p align="center">
+  <img src="https://github.com/Ankit152/StackOverflow-Tag-Prediction/blob/main/img/tagCount.jpg" height=612>
+</p>
