@@ -44,8 +44,21 @@ The data consists of 6 columns.
 
 Our main important features in the dataset are `Title`,`Body` and `Tags`.
 
+## Plots for better understanding 📊
+
+### Countplot of Tags per question 📈
+
 *`This is the countplot of number of tags per question.`*
 
 <p align="center">
   <img src="https://github.com/Ankit152/StackOverflow-Tag-Prediction/blob/main/img/tagCount.jpg" height=612>
+</p>
+
+The key take away from the above plot is that most of the question has `2` or `3` tags in them.
+
+### Distribution of Tags 📉
+
+*`This is the distribution of number of times the tag appeared in questions.`*
+<p align="center">
+  <img src="https://github.com/Ankit152/StackOverflow-Tag-Prediction/blob/main/img/tagDistribution.jpg" height=612>
 </p>
